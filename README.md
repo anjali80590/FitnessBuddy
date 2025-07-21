@@ -41,6 +41,8 @@ The **Fitness Dashboard** is a personal fitness tracking application that helps 
 - 📱 Fully **Responsive Design**  
 - 🔔 **Toast Notifications** for actions  
 
+---
+
 ### Directory Strcuture 📁
 ```
 fitnessbuddy/
@@ -64,7 +66,10 @@ fitnessbuddy/
 ├── README.md
 ```
 
-###🧠 Design Decisions / Assumptions
+---
+
+
+### 🧠 Design Decisions / Assumptions
 
 - Firebase is used to handle user authentication and real-time data syncing.
 - TailwindCSS is used for rapid, responsive, and consistent UI development.
@@ -73,6 +78,8 @@ fitnessbuddy/
 - Calories burned are estimated based on predefined workout types & MET values.
 - App is optimized for mobile-first responsiveness and user experience.
 - 
+
+---
 
 ### ⚡ Installation & Getting Started  
 
