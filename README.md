@@ -85,8 +85,8 @@ fitnessbuddy/
 
 ### ✅ 1. Clone the Repository  
 ```bash
-git clone https://github.com/anjali80590/fitnessbuddy.git
-cd fitnessbuddy/frontend
+git clone https://github.com/anjali80590/Fitnessbuddy.git
+cd Fitnessbuddy
 ```
 
 ### ✅ 2. Install Dependencies
