@@ -77,7 +77,6 @@ fitnessbuddy/
 - Weekly progress is shown via a dynamic progress bar based on goal.
 - Calories burned are estimated based on predefined workout types & MET values.
 - App is optimized for mobile-first responsiveness and user experience.
-- 
 
 ---
 
