@@ -4,12 +4,12 @@
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)  
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)  
 
-## 📖 Introduction  
+### 📖 Introduction  
 The **Fitness Dashboard** is a personal fitness tracking application that helps users **manage workouts, monitor BMI, set fitness goals, and track progress over time**. It also includes **Dark Mode** and **Responsive Design** for the best user experience.  
 
 ---
 
-## 🧩 Project Type
+### 🧩 Project Type
 **Fullstack**  
 - **Frontend:** React, Redux, TailwindCSS  
 - **Backend:** Firebase Firestore  
@@ -17,14 +17,14 @@ The **Fitness Dashboard** is a personal fitness tracking application that helps 
 
 ---
 
-## 🌐 Deployed App
+### 🌐 Deployed App
 - **Frontend**: [https://fitnesssbuddyy.netlify.app](https://fitnesssbuddyy.netlify.app)  
 - **Backend**: Firebase Firestore  
 - **Database**: Firebase Firestore  
 
 ---
 
-## ✅ Features  
+### ✅ Features  
 - 🔐 **User Authentication** (Firebase)  
 - 👤 **Profile Management**  
   - Height, Weight, Target Weight  
@@ -41,29 +41,30 @@ The **Fitness Dashboard** is a personal fitness tracking application that helps 
 - 📱 Fully **Responsive Design**  
 - 🔔 **Toast Notifications** for actions  
 
-## Directory Strcuture 📁
-
+### Directory Strcuture 📁
+```
 fitnessbuddy/
 ├── node_modules/
 ├── public/
 ├── src/
-│   ├── components/          # Reusable UI components
-│   ├── context/             # Global context/state providers
-│   ├── pages/               # All route-level pages
-│   ├── redux/               # Redux store and slices
-│   ├── App.css              # App-level styles
-│   ├── App.js               # Main App component
-│   ├── App.test.js          # App test file
-│   ├── firebase.js          # Firebase configuration
-│   ├── index.css            # Global CSS
-│   ├── index.js             # Entry point
-│   ├── logo.svg             # App logo
-│   ├── reportWebVitals.js   # Performance measuring
-│   ├── setupTests.js        # Jest test setup
+│   ├── components/           # Reusable UI components
+│   ├── context/              # Global context/state providers
+│   ├── pages/                # All route-level pages
+│   ├── redux/                # Redux store and slices
+│   ├── App.css               # App-level styles
+│   ├── App.js                # Main App component
+│   ├── App.test.js           # App test file
+│   ├── firebase.js           # Firebase configuration
+│   ├── index.css             # Global CSS
+│   ├── index.js              # Entry point
+│   ├── logo.svg              # App logo
+│   ├── reportWebVitals.js    # Performance measuring
+│   ├── setupTests.js         # Jest test setup
 ├── package.json
 ├── README.md
+```
 
-## 🧠 Design Decisions / Assumptions
+###🧠 Design Decisions / Assumptions
 
 - Firebase is used to handle user authentication and real-time data syncing.
 - TailwindCSS is used for rapid, responsive, and consistent UI development.
@@ -73,7 +74,7 @@ fitnessbuddy/
 - App is optimized for mobile-first responsiveness and user experience.
 - 
 
-## ⚡ Installation & Getting Started  
+### ⚡ Installation & Getting Started  
 
 ### ✅ 1. Clone the Repository  
 ```bash
