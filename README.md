@@ -1,11 +1,7 @@
 # 🏋️‍♀️ Fitness Dashboard  
-### https://img.shields.io/badge/Live-Demo-green)](https://fitnesssbuddyy.netlify.app
-  
-
 ### 📖 Introduction  
 The **Fitness Dashboard** is a personal fitness tracking application that helps users **manage workouts, monitor BMI, set fitness goals, and track progress over time**. It also includes **Dark Mode** and **Responsive Design** for the best user experience.  
 
----
 
 ### 🧩 Project Type
 **Fullstack**  
