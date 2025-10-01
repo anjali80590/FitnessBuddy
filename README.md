@@ -1,5 +1,5 @@
 # 🏋️‍♀️ Fitness Dashboard  
-## Live Demo (https://img.shields.io/badge/Live-Demo-green)](https://fitnesssbuddyy.netlify.app)  
+### https://img.shields.io/badge/Live-Demo-green)](https://fitnesssbuddyy.netlify.app
   
 
 ### 📖 Introduction  
