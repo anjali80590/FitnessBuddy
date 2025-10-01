@@ -1,8 +1,6 @@
 # 🏋️‍♀️ Fitness Dashboard  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://fitnesssbuddyy.netlify.app)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)  
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)  
+## Live Demo (https://img.shields.io/badge/Live-Demo-green)](https://fitnesssbuddyy.netlify.app)  
+  
 
 ### 📖 Introduction  
 The **Fitness Dashboard** is a personal fitness tracking application that helps users **manage workouts, monitor BMI, set fitness goals, and track progress over time**. It also includes **Dark Mode** and **Responsive Design** for the best user experience.  
